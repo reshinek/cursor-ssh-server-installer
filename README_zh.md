@@ -1,3 +1,5 @@
+**其他语言版本: [English](README.md), [中文](README_zh.md).**
+
 ## Cursor 远程服务器部署脚本
 
 ### 概述
